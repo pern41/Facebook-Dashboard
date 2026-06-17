@@ -1,6 +1,16 @@
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red)](https://facebook-dashboard-k7jchvbyqhjysovpmiefhq.streamlit.app/)
+
+[![Python](https://img.shields.io/badge/Python-3.12-blue)]()
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)]()
 # 📊 Facebook Comment Intelligence Dashboard
 
 A Streamlit dashboard for parsing, classifying, and analyzing Facebook comments.
+
+🌐 **Live Demo**
+
+**Try it here:**  
+👉 https://facebook-dashboard-k7jchvbyqhjysovpmiefhq.streamlit.app/
 
 The application can:
 
