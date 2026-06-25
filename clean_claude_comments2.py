@@ -434,11 +434,9 @@ CATEGORY_KEYWORDS = {
             "business intelligence",
             "bi",
             "chart",
-            "dashboard",
             "แดชบอร์ด",
             "รายงาน",
             "visualization",
-            "kpi",
             #TH
             "สรุปรายงาน",
             "ตัวชี้วัด",
@@ -1678,8 +1676,7 @@ FEATURE_REQUEST_KEYWORDS = {
         "ux", 
         "interface", 
         "design", 
-        "screenshot", 
-        "dashboard", 
+        "screenshot",  
         "layout"
     ],
 }
@@ -1702,6 +1699,8 @@ FEATURE_REQUEST_CUES = [
     "improve",
     "add",
     "support",
+    "อยากให้",
+    "ออกมาเป็น",
 ]
 
 
